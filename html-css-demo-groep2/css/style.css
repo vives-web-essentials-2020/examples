@@ -1,0 +1,39 @@
+body {
+  background-color: yellow;
+  text-align: center;
+  margin: 0px;
+}
+
+img {
+  width: 100%;
+  max-width: 800px;
+}
+
+h1 {
+  font-family: Algerian, Arial, sans-serif;
+  font-size: 72px;
+}
+
+.box {
+  width: 800px;
+  height: 100px;
+  /* background-color: cornflowerblue; */
+  margin: auto;
+  text-align: left;
+}
+
+img.banner {
+  width: 100%;
+  height: 200px;
+  max-width: none;
+}
+
+div.image-overview {
+  width: 800px;
+  margin: auto;
+  text-align: left;
+}
+
+div.image-overview img {
+  width: 250px;
+}
